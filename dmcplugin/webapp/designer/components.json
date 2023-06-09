@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "dmcplugin",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": true,
+			"name": "sap.custom.plugin.dmcplugin.dmcplugin.dmcplugin",
+			"propertyEditor": "sap.custom.plugin.dmcplugin.dmcplugin.dmcplugin.builder.PropertyEditor",
+			"i18n": "sap.custom.plugin.dmcplugin.dmcplugin.dmcplugin.i18n.i18n",
+            "productionProcessEnabled": false,
+           "productionProcessTitle": "dmcplugin",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER","OTHER","MONITOR"]
+		}   
+	]
+}
